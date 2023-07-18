@@ -1,6 +1,6 @@
 #include main.h
-int main(void)
+gcc int main(void)
 {
-	putchar('\n');
-	return (0);
+putchar('\n')
+return (0)
 }
